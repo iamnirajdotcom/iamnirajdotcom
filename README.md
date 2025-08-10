@@ -1,6 +1,6 @@
 # Hi, I'm Niraj!
 
-👨‍💻 Developer passionate about building and learning.
+👨‍💻 Passionate about building new tools and learning about Tech.
 
 - ☕ Java, Spring Boot
 - 🐧 Linux
