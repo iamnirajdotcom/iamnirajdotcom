@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Niraj!
 
-<!--
-**iamnirajdotcom/iamnirajdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Developer passionate about building and learning.
 
-Here are some ideas to get you started:
+- ☕ Java, Spring Boot
+- 🐧 Linux
+- 🌩️ AWS Cloud Practitioner
+- 🌐 Google Associate Cloud Engineer
+- 🛠️ Git & GitHub
+- 🚀 Always exploring and making good things
+- 🎬 Anime fan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let's connect:**
+- [LinkedIn](https://www.linkedin.com/in/iamnirajdotcom/)
+- [X (Twitter)](https://x.com/iamnirajdotcom)
